@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Order Form</string>
+    <string name="pizza_place_string">Picture of a pizza restaurant</string>
+    <string name="welcome">Welcome to my Pizza Place!</string>
+    <string-array name="spinner_values">
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Small</item>
+    </string-array>
+    <string name="yourName">your name</string>
+</resources>
